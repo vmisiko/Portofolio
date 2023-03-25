@@ -2,7 +2,7 @@
 
 ## a portfolio for developers
 
-![screenshot](https://andy8647.com/website.jpg)
+![screenshot](https://andy8647.com/website.png)
 
 [View Live Demo](https://andy8647.com/)
 
@@ -54,7 +54,7 @@ Elements redesigned by [Ingrid Fei](https://ingrid0126.com)
 
 - replace `/src/assets/img/self.png`
 - replace `/public/favicon.ico`
-- replace `/public/website.jpg` (this is the image that shows up when you share the link on social media, you can take a screen shot when the infomation has been filled out)
+- replace `/public/website.png` (this is the image that shows up when you share the link on social media, you can take a screen shot when the infomation has been filled out)
 
 ### 2. Your Information
 
@@ -124,14 +124,14 @@ const firebaseConfig = {
     <meta property="og:url" content="https://andy8647.com/">
     <meta property="og:title" content="Andy Luo, Full Stack Developer">
     <meta property="og:description" content="Full Stack Developer and Freelance Photographer based in Toronto, passionate about building web applications, learning new technologies, traveling and exploring new places.">
-    <meta property="og:image" content="https://andy8647.com/website.jpg">
+    <meta property="og:image" content="https://andy8647.com/website.png">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://andy8647.com/">
     <meta property="twitter:title" content="Andy Luo, Full Stack Developer">
     <meta property="twitter:description" content="Full Stack Developer and Freelance Photographer based in Toronto, passionate about building web applications, learning new technologies, traveling and exploring new places.">
-    <meta property="twitter:image" content="https://andy8647.com/website.jpg">
+    <meta property="twitter:image" content="https://andy8647.com/website.png">
 ```
 
 
