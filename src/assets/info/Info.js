@@ -86,7 +86,7 @@ export const info = {
       'Flutter'
     ],
     databases: ['MySQl','PostgreSQL', 'MongoDB', 'TypeORM', 'LucidORM','TOrtoiseORM'],
-    cloudServices: ['AWS S3', 'AWS EC2', 'AWS SNS', 'Google Analytics', 'Heroku', 'Netlify'],
+    cloudServices: ['AWS S3', 'AWS EC2', 'AWS SNS', 'Google Analytics', 'Heroku', 'Netlify', 'Onrender', 'CloudFront'],
     tools: [
       'Git',
       'Postman',
