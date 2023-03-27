@@ -121,17 +121,17 @@ const firebaseConfig = {
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://andy8647.com/">
+    <meta property="og:url" content="https://victormisiko.onrendor.com/">
     <meta property="og:title" content="Andy Luo, Full Stack Developer">
     <meta property="og:description" content="Full Stack Developer and Freelance Photographer based in Toronto, passionate about building web applications, learning new technologies, traveling and exploring new places.">
-    <meta property="og:image" content="https://andy8647.com/website.png">
+    <meta property="og:image" content="https://victormisiko.onrendor.com/website.png">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:url" content="https://andy8647.com/">
+    <meta property="twitter:url" content="https://victormisiko.onrendor.com/">
     <meta property="twitter:title" content="Andy Luo, Full Stack Developer">
     <meta property="twitter:description" content="Full Stack Developer and Freelance Photographer based in Toronto, passionate about building web applications, learning new technologies, traveling and exploring new places.">
-    <meta property="twitter:image" content="https://andy8647.com/website.png">
+    <meta property="twitter:image" content="https://victormisiko.onrendor.com/website.png">
 ```
 
 
